@@ -11,7 +11,7 @@ Point-based air temperature observations from NOAA (May–September 2025)
 Geographic boundary data for Arizona
 
 ## Map
-![Interpolated Mean Air Temperature in Arizona (May–September 2025)](Interpolated-Mean-Air-Temperature-in-Arizona-(F°)-May-September,-2025.png)
+![Interpolated Mean Air Temperature in Arizona (May–September 2025)](interpolated-mean-air-temp.png)
 
 Temperature observation points are displayed on the map as reference locations used in the interpolation process.
 
