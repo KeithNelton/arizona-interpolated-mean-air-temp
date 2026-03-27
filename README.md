@@ -7,8 +7,8 @@
 This project presents a spatial interpolation of mean air temperatures across Arizona from May through September 2025. The map illustrates regional temperature gradients, highlighting spatial variability driven by elevation, latitude, and localized climatic conditions.
 
 ## Data Sources
-Point-based air temperature observations from NOAA (May–September 2025)
-Geographic boundary data for Arizona
+Point-based air temperature observations from NOAA (May–September 2025).
+Geographic boundary data for Arizona.
 
 ## Map
 ![Interpolated Mean Air Temperature in Arizona (May–September 2025)](interpolated-mean-air-temp.png)
@@ -27,7 +27,7 @@ Central Arizona shows moderate temperature ranges, reflecting transitional clima
 Southern and southwestern areas display the highest temperatures, consistent with desert environments.
 
 ## Applications
-Climate and environmental analysis
-Urban and regional planning
-Heat risk assessment
-Educational and visualization purposes
+Climate and environmental analysis.
+Urban and regional planning.
+Heat risk assessment.
+Educational and visualization purposes.
